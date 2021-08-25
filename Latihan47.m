@@ -37,16 +37,14 @@ akhir = awal +1 / 0.05;
 
 % Penyelesaian nomor 5
 
-x = -5:0.1:5; 
-sinus= sinh(x); cosinus= cosh(x); tangen= tanh(x);
+x= -5:0.1:5; 
+sinus = sinh(x); cosinus = cosh(x); tangent = tanh(x);
 
-disp('Tabel hiperbolik_trigonometri:'), ...
-disp('x         sinh        cosh        tanh'), ...
-disp('--------------------------------------')
-Tabel hiperbolik_trigonometri:
-%x         sinh        cosh           tanh
-%---------------------------------------------
-[ x'      sinus'      cosinus'       tangen' ]
-x         sinh        cosh           tanh
-
+disp('Tabel hiperbolik-trigonometri:'), ...
+disp('x    sinh    cosh    tanh'), ...
+disp('_ _ _ _ _ _ _ _ _ _ _ _ _')
+Tabel hiperbolik-trigonometri:
+x    sinh    cosh    tanh
+_ _ _ _ _ _ _ _ _ _ _ _ _
+[ x'   sinus'   cosinus'   tangent' ]
 
