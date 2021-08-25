@@ -1,7 +1,7 @@
 % Nama : Ulbah
 % NIM  : 200209500008
 % Kelas: PTIK B
-% Latihan Halaman 22
+% Latihan Halaman 47
 
 % Penyelesaian nomor 1
 
